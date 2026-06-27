@@ -1,0 +1,16 @@
+.footer{
+    background:#222;
+    color:white;
+    text-align:center;
+    padding:50px 20px;
+}
+
+.footer h2{
+    margin-bottom:15px;
+    color:#ff5a1f;
+}
+
+.footer p{
+    margin:10px 0;
+    color:#ddd;
+}
